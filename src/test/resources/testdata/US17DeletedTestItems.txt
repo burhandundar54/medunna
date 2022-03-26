@@ -1,0 +1,5 @@
+A Test Item is deleted with identifier 31212
+A Test Item is deleted with identifier 33004
+A Test Item is deleted with identifier 33005
+A Test Item is deleted with identifier 33006
+A Test Item is deleted with identifier 37214

@@ -1,0 +1,9 @@
+Appointment{firstname='Alita', lastname='Gutmann', ssn='822-42-8768', email='dale.pouros@gmail.com', email2='null', phoneNumber='416-208-6412', date='13.05.2022'}
+Appointment{firstname='Refugio', lastname='Johnson', ssn='647-26-6887', email='lea.mraz@gmail.com', email2='null', phoneNumber='416-208-6412', date='13.05.2022'}
+Appointment{firstname='Winfred', lastname='Brakus', ssn='139-72-0877', email='arlen.lemke@hotmail.com', email2='null', phoneNumber='416-208-6412', date='13.05.2022'}
+Appointment{firstname='Lesley', lastname='Reynolds', ssn='165-81-1449', email='loria.hills@hotmail.com', email2='null', phoneNumber='416-208-6412', date='13.05.2022'}
+Appointment{firstname='Jeremiah', lastname='Gulgowski', ssn='020-68-1483', email='tonya.schneider@gmail.com', email2='null', phoneNumber='416-208-6412', date='13.05.2022'}
+Appointment{firstname='Christina', lastname='Wolff', ssn='882-43-8501', email='jamar.blick@yahoo.com', email2='null', phoneNumber='416-208-6412', date='13.05.2022'}
+Appointment{firstname='Kermit', lastname='Nicolas', ssn='812-44-4995', email='tyra.koepp@hotmail.com', email2='null', phoneNumber='416-208-6412', date='13.05.2022'}
+Appointment{firstname='Carmen', lastname='Parisian', ssn='585-33-1397', email='juliet.rempel@yahoo.com', email2='null', phoneNumber='416-208-6412', date='13.05.2022'}
+Appointment{firstname='Myong', lastname='Powlowski', ssn='148-78-6259', email='stacie.klocko@yahoo.com', email2='null', phoneNumber='416-208-6412', date='13.05.2022'}
