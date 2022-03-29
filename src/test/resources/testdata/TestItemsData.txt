@@ -21,3 +21,4 @@ Walter test,mg/dL,88,50,120,null
 Cleo xtest,mg/dL,41,44,82,25-03-2022
 Jaredxtest,mg/dL,98,52,107,26-03-2022
 Stefanxytest,mg/dL,89,50,120,null
+Simonnexytest,mg/dL,123,50,120,null
